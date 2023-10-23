@@ -11,7 +11,7 @@ pip install -r requirements.txt
     .data/wikievents/
 	├── train.jsonl        # 206 docs 
 	├── dev.jsonl          # 20  docs
-	└──  test.jsonl         # 20  docs
+	└── test.jsonl         # 20  docs
 	
     .data/rams/
 	├── train.jsonlines    # 7329 docs 
@@ -29,7 +29,5 @@ Run on RAMS with:
 ```
 sh run_rams_setting3.sh 
 ```
-
-Model checkpoints and logs will be saved to `./saved_models/.
 
 
