@@ -1,0 +1,50 @@
+Justice.ChargeIndict.Unspecified Prosecutor Defendant JudgeCourt Place
+Life.Injure.Unspecified Victim Injurer Instrument BodyPart Place
+ArtifactExistence.DamageDestroyDisableDismantle.DisableDefuse Disabler Artifact Instrument Place
+ArtifactExistence.ManufactureAssemble.Unspecified ManufacturerAssembler Artifact Components Instrument Place
+Contact.Contact.Unspecified Participant Topic Place
+Personnel.StartPosition.Unspecified Employee PlaceOfEmployment Position Place
+Conflict.Demonstrate.DemonstrateWithViolence Demonstrator Regulator Topic Target Place
+Contact.Contact.Meet Participant Topic Place
+Control.ImpedeInterfereWith.Unspecified Impeder Place
+Contact.ThreatenCoerce.Broadcast Communicator Recipient Topic Place
+Conflict.Attack.DetonateExplode Attacker Target Instrument ExplosiveDevice Place
+ArtifactExistence.DamageDestroyDisableDismantle.Destroy Destroyer Artifact Instrument Place
+Cognitive.Inspection.SensoryObserve Observer ObservedEntity Instrument Place
+Disaster.DiseaseOutbreak.Unspecified Disease Victim Place
+Movement.Transportation.IllegalTransportation Transporter PassengerArtifact Vehicle Origin Destination
+Conflict.Defeat.Unspecified Victor Defeated Place
+Transaction.ExchangeBuySell.Unspecified Giver Recipient AcquiredEntity PaymentBarter Place
+Contact.Contact.Broadcast Communicator Recipient Instrument Topic Place
+Contact.ThreatenCoerce.Unspecified Communicator Recipient Topic Place
+Contact.RequestCommand.Correspondence Communicator Recipient Topic Place
+ArtifactExistence.DamageDestroyDisableDismantle.Damage Damager Artifact Instrument Place
+Medical.Intervention.Unspecified Treater Patient Instrument Place
+Justice.ArrestJailDetain.Unspecified Jailer Detainee Place
+Contact.RequestCommand.Broadcast Communicator Recipient Topic Place
+GenericCrime.GenericCrime.GenericCrime Perpetrator Victim Place
+Disaster.Crash.Unspecified Vehicle CrashObject Place
+Movement.Transportation.Unspecified Transporter PassengerArtifact Vehicle Origin Destination
+Life.Die.Unspecified Victim Place Killer
+ArtifactExistence.DamageDestroyDisableDismantle.Unspecified DamagerDestroyer Artifact Instrument Place
+Personnel.EndPosition.Unspecified Employee PlaceOfEmployment Position Place
+Cognitive.TeachingTrainingLearning.Unspecified TeacherTrainer Learner Place
+Contact.RequestCommand.Meet Communicator Recipient Topic Place
+Justice.InvestigateCrime.Unspecified Investigator Defendant Place
+Justice.ReleaseParole.Unspecified JudgeCourt Defendant Place
+Contact.Contact.Correspondence Participant Instrument Topic Place
+Justice.Convict.Unspecified JudgeCourt Defendant Place
+Contact.ThreatenCoerce.Correspondence Communicator Recipient Topic Place
+Transaction.Donation.Unspecified Giver Recipient ArtifactMoney Place
+Cognitive.Research.Unspecified Researcher Subject Place
+Contact.RequestCommand.Unspecified Communicator Recipient Topic Place
+Movement.Transportation.PreventPassage Transporter PassengerArtifact Vehicle Preventer Origin Destination
+Justice.Sentence.Unspecified JudgeCourt Defendant Place
+Justice.Acquit.Unspecified JudgeCourt Defendant Place
+Conflict.Demonstrate.Unspecified Demonstrator Regulator Topic Target Place
+Justice.TrialHearing.Unspecified Prosecutor Defendant JudgeCourt Place
+Movement.Transportation.Evacuation Transporter PassengerArtifact Vehicle Origin Destination
+Conflict.Attack.Unspecified Attacker Target Instrument Place
+ArtifactExistence.DamageDestroyDisableDismantle.Dismantle Dismantler Artifact Instrument Components Place
+Cognitive.IdentifyCategorize.Unspecified Identifier IdentifiedObject IdentifiedRole Place
+Life.Infect.Unspecified Victim Place
